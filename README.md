@@ -1,4 +1,4 @@
-[![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://conp8.calculquebec.cloud/v2/gh/ltetrel/data-caching-binder-test/master/?filepath=notebooks/nilearn-example.ipynb)
+[![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://conp8.calculquebec.cloud/v2/gh/ltetrel/data-caching-binder-test/master/?filepath=notebooks/)
 
 # data-caching-binder-test
 
